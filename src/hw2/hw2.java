@@ -65,6 +65,6 @@ public class hw2 {
 			System.out.println("1～10的連乘積=" + n);
 			System.out.println("=====================");
 			System.out.println("請設計一隻Java程式，輸出結果為以下1 4 9 16 25 36 49 64 81 100");
-//			zzzzzz
+//			zzzzzzaaaa
 	}
 }
